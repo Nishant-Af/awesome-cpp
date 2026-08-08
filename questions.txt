@@ -1,0 +1,611 @@
+C++ PRACTICE QUESTIONS — 54 QUESTIONS
+
+Q1. Print “Hello World”
+Question: Write a program to print "Hello World" on the console.
+
+Output:
+Hello World
+
+
+Q2. Read and Print a Number
+Question: Read a number from the user and print it.
+
+Input:
+25
+
+Output:
+Entered Number: 25
+
+
+Q3. Print ASCII Value of a Character
+Question: Print the ASCII value of a given character.
+
+Input:
+A
+
+Output:
+ASCII Value of 'A' = 65
+
+
+Q4. Swap Two Numbers
+Question: Swap the values of two numbers.
+
+Input:
+a = 10
+b = 250
+
+Output:
+a = 250
+b = 10
+
+
+Q5. Find Size of Data Types
+Question: Find the size of int, float, double, and char.
+
+Output:
+size of int: <size> bytes
+size of float: <size> bytes
+size of double: <size> bytes
+size of char: <size> bytes
+
+
+Q6. Find Compound Interest
+Question: Calculate compound interest for a given principal, rate, and time.
+
+Input:
+Principal = 25000
+Rate = 12%
+Time = 5 years
+
+Output:
+Compound Interest = 19058.54
+
+
+Q7. Check Even or Odd
+Question: Check whether an integer is even or odd.
+
+Input:
+28
+
+Output:
+28 is Even Number.
+
+
+Q8. Find Largest of 3 Numbers
+Question: Find the largest among three numbers.
+
+Input:
+a = 10
+b = 21
+c = 4
+
+Output:
+b is the largest.
+
+
+Q9. Check Leap Year
+Question: Check whether a given year is a leap year.
+
+Input:
+2020
+
+Output:
+2020 is a Leap Year
+
+
+Q10. Check Prime Number
+Question: Check whether a number is prime.
+
+Input:
+29
+
+Output:
+29 is a prime number.
+
+
+Q11. Check Number Palindrome
+Question: Check whether a number is a palindrome.
+
+Input:
+1231
+
+Output:
+1231 is not a palindrome number.
+
+
+Q12. Simple Calculator
+Question: Create a calculator that performs addition, subtraction, multiplication, and division.
+
+Input:
+Numbers = 10 25
+Operation = m
+
+Output:
+250
+
+
+Q13. Reverse a Sentence Using Recursion
+Question: Reverse a given sentence using recursion.
+
+Input:
+Quick brown fox
+
+Output:
+xof nworb kciuQ
+
+
+Q14. Fibonacci Using Recursion
+Question: Find the Nth Fibonacci number using recursion.
+
+Input:
+N = 12
+
+Output:
+144
+
+
+Q15. Swap Two Numbers Using a Function
+Question: Swap two numbers using a function.
+
+Input:
+a = 10
+b = 22
+
+Output:
+a = 22
+b = 10
+
+
+Q16. Check Whether Two Arrays Are Equal
+Question: Check whether two arrays contain equal elements.
+
+Input:
+arr1 = {5, 8, 3}
+arr2 = {5, 8, 11, 2}
+
+Output:
+arr1[] and arr2[] are not equal.
+
+
+Q17. Average of Array Elements
+Question: Calculate the average of all elements in an array.
+
+Input:
+arr = {10, 22, 45, 11}
+
+Output:
+Average = 24.5
+
+
+Q18. Maximum and Minimum in Array
+Question: Find the maximum and minimum elements of an array.
+
+Input:
+arr = {10, 12, 45, 48, 22, 18}
+
+Output:
+Maximum = 48
+Minimum = 10
+
+
+Q19. Linear Search
+Question: Search for an element in an unsorted array using linear search.
+
+Input:
+arr = {10, 11, 7, 8, 2, 9}
+Element = 19
+
+Output:
+19 not found in the arr[]
+
+
+Q20. Right Rotate Array K Times
+Question: Right rotate an array by K positions.
+
+Input:
+arr = {10, 11, 7, 33, 5, 1}
+K = 3
+
+Output:
+{33, 5, 1, 10, 11, 7}
+
+
+Q21. Sum of Matrix Diagonals
+Question: Find the sums of the principal and secondary diagonals of a matrix.
+
+Input:
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+Principal Diagonal = 15
+Secondary Diagonal = 15
+
+
+Q22. Rotate a Matrix
+Question: Rotate a matrix clockwise.
+
+Input:
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+7 4 1
+8 5 2
+9 6 3
+
+
+Q23. Find Length of String
+Question: Find the length of a string.
+
+Input:
+GeeksforGeeks
+
+Output:
+Length of str = 13
+
+
+Q24. Compare Two Strings
+Question: Compare two strings and determine whether they are equal.
+
+Input:
+str1 = "Geeks"
+str2 = "geeks"
+
+Output:
+str1 and str2 are not equal.
+
+
+Q25. Check String Palindrome
+Question: Check whether a string is a palindrome.
+
+Input:
+naman
+
+Output:
+str is a palindrome string.
+
+
+Q26. Add Two Binary Strings
+Question: Add two binary numbers represented as strings.
+
+Input:
+a = "11"
+b = "1"
+
+Output:
+100
+
+
+Q27. Convert String to Integer
+Question: Convert a decimal number represented as a string into an integer.
+
+Input:
+"69420"
+
+Output:
+Number = 69420
+
+
+Q28. Split String into Substrings
+Question: Split a string into substrings using a delimiter.
+
+Input:
+Welcome Geeks to the GeeksforGeeks portal.
+
+Output:
+Welcome
+Geeks
+to
+the
+GeeksforGeeks
+portal.
+
+
+Q29. Print Full Pyramid Pattern
+Question: Print a full pyramid pattern for a given number of rows.
+
+Input:
+5
+
+Output:
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+
+Q30. Print Number in Large Size
+Question: Receive a number and print it in large form.
+
+Input:
+12
+
+Output:
+12
+
+
+Q31. Print Pascal's Triangle
+Question: Print Pascal's Triangle for N rows.
+
+Input:
+5
+
+Output:
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+
+
+Q32. Binary to Decimal
+Question: Convert a binary number to decimal.
+
+Input:
+101011
+
+Output:
+43
+
+
+Q33. Decimal to Octal
+Question: Convert a decimal number to octal.
+
+Input:
+100
+
+Output:
+144
+
+
+Q34. Bubble Sort
+Question: Sort an array in increasing order using Bubble Sort.
+
+Input:
+{1, 85, 41, 23, 11}
+
+Output:
+{1, 11, 23, 41, 85}
+
+
+Q35. Binary Search
+Question: Search for an element in a sorted array using Binary Search.
+
+Input:
+arr = {1, 2, 3, 8, 9, 11}
+K = 9
+
+Output:
+9 is at index 4
+
+
+Q36. Merge Sort
+Question: Sort an array using the Merge Sort algorithm.
+
+Input:
+{1, 85, 41, 23, 11}
+
+Output:
+{1, 11, 23, 41, 85}
+
+
+Q37. Sort a String Array
+Question: Sort strings in lexicographically ascending order.
+
+Input:
+{"Abhishek", "Ankur", "Satyam", "Ankit", "Yuvraj"}
+
+Output:
+{"Abhishek", "Ankit", "Ankur", "Satyam", "Yuvraj"}
+
+
+Q38. Store Student Information Using Structure
+Question: Store student information such as name, roll number, subjects, marks, and CGPA using a structure.
+
+Input:
+Name = Aditya Arpan
+Roll Number = 69420
+Subjects = {DSA, CN, CO, TOC, DBMS}
+Marks = {92, 85, 89, 93, 99}
+CGPA = 9.8
+
+Output:
+Student Name: Aditya Arpan
+Roll Number: 69420
+Subjects: DSA CN CO TOC DBMS
+Marks: 92 85 89 93 99
+CGPA: 9.8
+
+
+Q39. Add Two Complex Numbers
+Question: Add two complex numbers.
+
+Input:
+num1 = 2 + 3i
+num2 = 5 + 11i
+
+Output:
+7 + 14i
+
+
+Q40. Create an Interface
+Question: Create an interface-like structure in C++ using classes and inheritance.
+
+Example:
+class interfaceClass { }
+
+class D : public interfaceClass { }
+
+class X : public interfaceClass { }
+
+Expected Result:
+D and X implement interfaceClass.
+
+
+Q41. Create a New File
+Question: Create a new file using C++ and report whether creation succeeded.
+
+Output:
+File Creation Successful.
+
+
+Q42. Append One Text File to Another
+Question: Append the contents of one text file to another without replacing the existing content.
+
+file1.txt:
+This content will be copied.
+
+file2.txt:
+This content will remain even after copying.
+
+Output:
+This content will remain even after copying.
+This content will be copied.
+
+
+Q43. List Files in a Directory
+Question: Print the names of files present in a directory.
+
+Output:
+Files in Parent Directory:
+file1.txt
+file2.exe
+thisFile.exe
+someProg.bin
+
+
+Q44. Handle Divide-by-Zero
+Question: Handle an attempt to divide a number by zero.
+
+Input:
+10 / 0
+
+Output:
+Math error: Attempted to divide by Zero
+
+
+Q45. Copy a Vector Using STL
+Question: Copy the elements of one vector into another using std::copy.
+
+Input:
+vec1 = {1, 5, 7, 3}
+vec2 = {}
+
+Output:
+vec2 = {1, 5, 7, 3}
+
+
+Q46. Find Maximum and Minimum in a Set
+Question: Find the minimum and maximum elements of an STL set.
+
+Input:
+{1, 9, 3, 11, 24, 45}
+
+Output:
+Minimum = 1
+Maximum = 45
+
+
+Q47. Find String Permutations Using STL
+Question: Find all permutations of a given string using STL.
+
+Input:
+ABC
+
+Output:
+ABC
+ACB
+BAC
+BCA
+CAB
+CBA
+
+
+Q48. Implement Stack Using Class Template
+Question: Implement a generic stack using a C++ class template with push(), pop(), top(), and empty().
+
+Input/Operations:
+push(89)
+push(2)
+top()
+
+Output:
+2
+
+
+Q49. Create a Custom Vector Class
+Question: Create a custom vector class supporting push_back(), pop_back(), size(), and indexing.
+
+Input/Operations:
+push_back(12)
+push_back(22)
+v[1]
+
+Output:
+22
+
+
+Q50. Build a Custom Map
+Question: Build a custom map-like container using a C++ header file.
+
+Required Operations:
+insert()
+find()
+update()
+access key
+erase()
+count()
+size()
+empty()
+clear()
+
+Expected Result:
+Custom map supports all required operations.
+
+
+Q51. Find Middle Element of Linked List
+Question: Find the middle element of a singly linked list.
+
+Input:
+1 -> 5 -> 11 -> 3 -> 7
+
+Output:
+Middle Element = 11
+
+
+Q52. Print Current Day, Date and Time
+Question: Print the current day, date, and time.
+
+Example Output:
+Thu Dec 28 12:25:08 2023
+
+
+Q53. Print Calendar for a Given Year
+Question: Print the calendar for a given year.
+
+Input:
+2016
+
+Example Output:
+------------February-------------
+Sun Mon Tue Wed Thu Fri Sat
+     1   2   3   4   5   6
+ 7   8   9  10  11  12  13
+14  15  16  17  18  19  20
+21  22  23  24  25  26  27
+28  29
+
+
+Q54. Generate Random Double Numbers
+Question: Generate 10 random numbers of type double.
+
+Example Output:
+10.125
+120.44
+211534.4123
+123216484.11111
+...
